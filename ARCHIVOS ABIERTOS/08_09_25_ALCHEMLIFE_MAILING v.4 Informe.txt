@@ -1,0 +1,90 @@
+Informe del paquete
+
+-----------------------------------------------------------------------------
+Documento:
+Nombre: 08_09_25_ALCHEMLIFE_MAILING v.4.ai
+Modo de color: Color RGB
+Perfil de color: sRGB IEC61966-2.1
+Unidades de regla: p’xeles
+Dimensiones de la mesa de trabajo: 800 px x 2784,2227 px
+Mostrar im‡genes en modo contorno: Desactivado
+Resaltar fuentes sustituidas: Desactivado
+Resaltar glifos sustituidos: Desactivado
+Conservar capacidad de edici—n de texto
+Simular papel de color: Desactivado
+
+-----------------------------------------------------------------------------
+Objetos de tintas planas:
+PANTONE 369 C (Lab)
+PANTONE Process Black C (Lab)
+
+-----------------------------------------------------------------------------
+Fuentes no disponibles:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes protegidas no empaquetadas:
+Poppins Bold (Adobe Fonts)
+Poppins ExtraBold (Adobe Fonts)
+Poppins Black (Adobe Fonts)
+Poppins Regular (Adobe Fonts)
+Poppins Medium (Adobe Fonts)
+
+-----------------------------------------------------------------------------
+Fuentes:
+Arial Bold (OTF)
+Arial (OTF)
+
+-----------------------------------------------------------------------------
+Fuentes incrustadas:
+Ninguno
+
+-----------------------------------------------------------------------------
+Enlaces no disponibles:
+Ninguno
+
+-----------------------------------------------------------------------------
+Im‡genes enlazadas:
+
+/Usuarios/flor/Biblioteca/CloudStorage/OneDrive-SharedLibraries-puntaalta.es/Clients - Clients/2025/ALCHEMLIFE/PLA EXPLOTACIO PEA Q4/DISENO/04_ESTUDI_CREATIU/02_PROCES/MAIL/link/shutterstock_2558064075.jpg
+Tipo: RGB
+Bits por p’xel: 24
+Canales: 3
+Tama–o: 135669K, 10268 por 4510 p’xeles
+Dimensiones: 1137,316 por 575,188 puntos 
+Resoluci—n: 650,036 por 564,546 p’xeles por pulgada
+
+
+/Usuarios/flor/Biblioteca/CloudStorage/OneDrive-SharedLibraries-puntaalta.es/Clients - Clients/2025/ALCHEMLIFE/PLA EXPLOTACIO PEA Q4/DISENO/04_ESTUDI_CREATIU/02_PROCES/MAIL/link/shutterstock_2190494065.jpg
+Tipo: RGB
+Bits por p’xel: 24
+Canales: 3
+Tama–o: 95689K, 7000 por 4666 p’xeles
+Dimensiones: 138,194 por 92,116 puntos 
+Resoluci—n: 3647,06 por 3647,06 p’xeles por pulgada
+
+
+/Usuarios/flor/Biblioteca/CloudStorage/OneDrive-SharedLibraries-puntaalta.es/Clients - Clients/2025/ALCHEMLIFE/PLA EXPLOTACIO PEA Q4/DISENO/04_ESTUDI_CREATIU/02_PROCES/MAIL/link/shutterstock_1111725959.jpg
+Tipo: RGB
+Bits por p’xel: 24
+Canales: 3
+Tama–o: 52488K, 5184 por 3456 p’xeles
+Dimensiones: 157,371 por 104,914 puntos 
+Resoluci—n: 2371,765 por 2371,765 p’xeles por pulgada
+
+
+/Usuarios/flor/Biblioteca/CloudStorage/OneDrive-SharedLibraries-puntaalta.es/Clients - Clients/2025/ALCHEMLIFE/PLA EXPLOTACIO PEA Q4/DISENO/04_ESTUDI_CREATIU/02_PROCES/MAIL/link/shutterstock_725776570.jpg
+Tipo: RGB
+Bits por p’xel: 24
+Canales: 3
+Tama–o: 70782K, 6016 por 4016 p’xeles
+Dimensiones: 166,318 por 111,026 puntos 
+Resoluci—n: 2604,368 por 2604,368 p’xeles por pulgada
+
+
+/Usuarios/flor/Biblioteca/CloudStorage/OneDrive-SharedLibraries-puntaalta.es/Clients - Clients/2025/ALCHEMLIFE/PLA EXPLOTACIO PEA Q4/DISENO/04_ESTUDI_CREATIU/02_PROCES/MAIL/link/imagen_ampliada.psd
+Tipo: RGB
+Bits por p’xel: 24
+Canales: 3
+Tama–o: 100515K, 3008 por 11406 p’xeles
+Dimensiones: 800,617 por 3106,501 puntos 
+Resoluci—n: 270,511 por 264,359 p’xeles por pulgada
